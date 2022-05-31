@@ -4,7 +4,7 @@ I am a graduate of Web Design and Coding, Management Information Systems.
 
 My [medium](https://medium.com/@ucaralperen) articles for web technologies.
 
-Repository [github]([https://github.com/Alperen-ucar](https://github.com/Alperen-ucar?tab=repositories)) for projects.
+Repository [github](https://github.com/Alperen-ucar?tab=repositories) for projects.
 
 **Tech and Programming Languages**
 
