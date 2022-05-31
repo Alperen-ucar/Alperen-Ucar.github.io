@@ -22,6 +22,6 @@ Repository [github](https://github.com/Alperen-ucar) for projects.
 
 ### Contact
 
->[Linkedin](https://www.linkedin.com/in/alperenu%C3%A7ar) account and 
->[Twitter](https://twitter.com/Ucardev) account.
+[Linkedin](https://www.linkedin.com/in/alperenu%C3%A7ar) account.
+[Twitter](https://twitter.com/Ucardev) account.
 
