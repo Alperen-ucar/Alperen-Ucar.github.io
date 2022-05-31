@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Web Developer
+
+I am a graduate of Web Design and Coding, Management Information Systems.
 
 My [medium](https://medium.com/@ucaralperen) articles for web technologies.
 
 Repository [github](https://github.com/Alperen-ucar) for projects.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-markdown
-Syntax highlighted code block
 
 - HTML
 - CSS
@@ -28,6 +23,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alperen-ucar/Alperen-Ucar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Linkedin](https://www.linkedin.com/in/alperenu%C3%A7ar) account and 
+[Twitter](https://twitter.com/Ucardev) account.
+
