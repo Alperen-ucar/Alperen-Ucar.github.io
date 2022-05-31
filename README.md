@@ -13,18 +13,15 @@ Repository [github](https://github.com/Alperen-ucar) for projects.
 - React
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alperen-ucar/Alperen-Ucar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**My Some Projects**
+- Stopwatch App (JavaSccript)
+- JavaScript-15-Projects (Tutorial Projects)
+- Todo App (ReactJS)
+- Regex Text App (JavaScript)
+- Weather App (ReactJS)
 
 ### Contact
 
-[Linkedin](https://www.linkedin.com/in/alperenu%C3%A7ar) account and 
-[Twitter](https://twitter.com/Ucardev) account.
+>[Linkedin](https://www.linkedin.com/in/alperenu%C3%A7ar) account and 
+>[Twitter](https://twitter.com/Ucardev) account.
 
