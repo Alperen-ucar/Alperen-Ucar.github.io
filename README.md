@@ -6,6 +6,8 @@ My [medium](https://medium.com/@ucaralperen) articles for web technologies.
 
 Repository [github](https://github.com/Alperen-ucar) for projects.
 
+**Tech and Programming Languages**
+
 - HTML
 - CSS
 - Bootstrap
