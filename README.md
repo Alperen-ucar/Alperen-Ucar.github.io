@@ -16,7 +16,7 @@ Repository [github](https://github.com/Alperen-ucar) for projects.
 
 
 **My Some Projects**
-- Stopwatch App (JavaSccript)
+- Stopwatch App (JavaScript)
 - JavaScript-15-Projects (Tutorial Projects)
 - Todo App (ReactJS)
 - Regex Text App (JavaScript)
